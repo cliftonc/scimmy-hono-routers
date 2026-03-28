@@ -1,7 +1,7 @@
 {
   "name": "scimmy-hono-routers",
   "description": "SCIMMY Hono Routers — SCIM 2.0 server middleware for Hono",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "cliftonc",
   "license": "MIT",
   "type": "module",
